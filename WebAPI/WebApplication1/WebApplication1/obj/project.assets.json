@@ -12669,11 +12669,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\WebAPI\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Projects\\webapi_maxime\\WebAPI\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Projects\\WebAPI\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "C:\\Projects\\webapi_maxime\\WebAPI\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\Maxime\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\WebAPI\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Projects\\webapi_maxime\\WebAPI\\WebApplication1\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
