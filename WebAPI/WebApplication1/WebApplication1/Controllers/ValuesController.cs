@@ -13,7 +13,7 @@ namespace WebApplication1.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            return new string[] { "jenkins test", "jenkins test 4" };
+            return new string[] { "jenkins test", "jenkins test 5" };
         }
 
         // GET api/values/5
